@@ -176,9 +176,6 @@ facility
   display: flex;
   justify-content: center;
 }
-#facility li {
-  padding: 0 10px;
-}
 .icon {
   margin: 0 15px;
 }
